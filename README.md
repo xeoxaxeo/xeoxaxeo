@@ -3,8 +3,10 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🙌 Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> “Something Different”한 백엔드 개발자가 되기 위해 열심히 공부 중입니다! 😄👍 </div> 
-    </div>
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
+    <li>“Something Different”한 백엔드 개발자가 되기 위해 열심히 공부 중입니다! 😄👍</li>
+    <li><a href="https://www.notion.so/sarchive/6854142e71df46e3ae944b6a00d49d05" style="color: #58a6ff; text-decoration: none;">PORTFOLIO</a></li>
+</div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
