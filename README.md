@@ -109,13 +109,13 @@
 이화여자대학교 컴퓨터공학과, 2027.02 졸업 예정 · 학점 4.22 / 4.5
 
 <sub>AWARDS</sub><br>
-2025 전국 대학생 사회적기업 우수사례발굴 경진대회 은상<br>
-2025 Ewha Engineering Capstone Design Contest 은상<br>
-2025 창의적 종합설계 경진대회 컨소시엄 우수상 — 고려대학교 공학교육혁신센터<br>
-2024 MaKING JAM 5th 우수상 — 교내 게임 개발 해커톤
+2025 전국 대학생 사회적기업 우수사례발굴 경진대회 은상 - 사회적기업학회<br>
+2025 Ewha Engineering Capstone Design Contest 은상 - 이화여자대학교 공학교육혁신센터<br>
+2025 창의적 종합설계 경진대회 컨소시엄 우수상 - 고려대학교 공학교육혁신센터<br>
+2024 MaKING JAM 5th 우수상 - 교내 게임 개발 해커톤
 
 <sub>ACTIVITY</sub><br>
-이화여자대학교 중앙 개발동아리 ECC 2024 회장 — 임기 중 AngelHack-ECC 공식 파트너십 체결, HackSeoul 2024 서포트
+이화여자대학교 중앙 개발동아리 ECC 2024 회장 - 임기 중 AngelHack-ECC 공식 파트너십 체결, HackSeoul 2024 서포트
 
 <sub>CERTIFICATION</sub><br>
 정보처리기사 · SQLD · ADSP · 리눅스마스터 2급 · JLPT N3
