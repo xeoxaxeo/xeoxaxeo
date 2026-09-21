@@ -29,7 +29,7 @@
 
 - 컬럼 추가 없이 언어 개수 변경에 대응하는 JSONB 다국어 모델링
 - 현장에서 발생한 커넥션 풀 고갈을 max-lifetime과 재시도로 안정화
-- Gradle 의존 선언만으로 3모듈 계층의 의존 방향을 단방향 고정
+- HikariCP 튜닝 · @Retryable · Caffeine 캐시 3중 Resilience 설계
 - Discord 임베드 알림 구조화와 정상 연결 종료 오탐 억제
 
 `Java` `Spring Boot` `PostgreSQL` `Supabase` `Render`
